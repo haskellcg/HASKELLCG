@@ -1,5 +1,4 @@
 ![Sperator](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(73).jpg)
-![Sperator](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(73).jpg)
 ![H](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(1).jpg)
 ![A](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(269).jpg)
 ![S](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(300).jpg)
@@ -9,7 +8,6 @@
 ![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(379).jpg)
 ![C](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(120).jpg)
 ![G](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(277).jpg)
-![Sperator](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(73).jpg)
 ![Sperator](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(73).jpg)
 
 

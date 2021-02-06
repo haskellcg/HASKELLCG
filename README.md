@@ -1,6 +1,13 @@
-![Profile Haskellcg](https://github.com/haskellcg/HASKELLCG/blob/main/haskellcg.png)
+![H](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(1060).jpg)
+![A](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(1362).jpg)
+![S](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(1489).jpg)
+![K](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(24).jpg)
+![E](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(325).jpg)
+![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(595).jpg)
+![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(740).jpg)
+![C](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(1904).jpg)
+![G](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(1872).jpg)
 
-#### [🌱🌱🌱 Life_Is_Beautiful](https://github.com/haskellcg/Life_Is_Beautiful)
-#### [🌱🌱🌱 Learning_CSharp](https://github.com/haskellcg/Learning_CSharp)
-
-#### [🌱🌱🌱 emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+#### ![Gear](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(2121).jpg) [Life_Is_Beautiful](https://github.com/haskellcg/Life_Is_Beautiful)
+#### ![Gear](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(2121).jpg) [Learning_CSharp](https://github.com/haskellcg/Learning_CSharp)
+#### ![Gear](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_8/ZUP_8%20(2121).jpg) [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)

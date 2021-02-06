@@ -4,7 +4,7 @@
 ![A](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(269).jpg)
 ![S](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(300).jpg)
 ![K](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(143).jpg)
-![E](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(1).jpg)
+![E](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(449).jpg)
 ![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(256).jpg)
 ![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(379).jpg)
 ![C](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_4/OIK_4%20(120).jpg)

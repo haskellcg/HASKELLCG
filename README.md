@@ -14,4 +14,4 @@
 #### ![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(67).jpg) [ife_Is_Beautiful](https://github.com/haskellcg/Life_Is_Beautiful)
 #### ![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(67).jpg) [earning_CSharp](https://github.com/haskellcg/Learning_CSharp)
 #### ![B](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(30).jpg) [log_Pictures](https://github.com/haskellcg/Blog_Pictures)
-#### ![E](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(10jpg) [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+#### ![E](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(10).jpg) [moji](https://www.webfx.com/tools/emoji-cheat-sheet/)

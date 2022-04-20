@@ -14,6 +14,7 @@
 |![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(67).jpg)|[Life_Is_Beautiful](https://github.com/haskellcg/Life_Is_Beautiful)|![L](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(67).jpg)|[Learning_CSharp](https://github.com/haskellcg/Learning_CSharp)
 |![C](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(66).jpg)|[Chinese_Chess_Codes](https://github.com/haskellcg/Chinese_Chess_Codes)|![F](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(2).jpg)|[FileControl](https://github.com/haskellcg/FileControl)
 |![N](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(5).jpg)|[Notepad_Codes](https://github.com/haskellcg/Notepad_Codes)|![C](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(66).jpg)|[Compiler_Codes](https://github.com/haskellcg/Compiler_Codes)
+|![R](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(52).jpg)| [ROS_Algorithms](https://github.com/haskellcg/ROS_Algorithms)|![P](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(24).jpg)|[Python_DemoFiles](https://github.com/haskellcg/Python_DemoFiles)|
 |![B](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(30).jpg)| [Blog_Pictures](https://github.com/haskellcg/Blog_Pictures)|![E](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(10).jpg)|[Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)|
 
 |Social|Link|

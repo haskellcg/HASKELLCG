@@ -17,7 +17,9 @@
 |![R](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(52).jpg)| [ROS_Algorithms](https://github.com/haskellcg/ROS_Algorithms)|![P](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(24).jpg)|[Python_DemoFiles](https://github.com/haskellcg/Python_DemoFiles)|
 |![B](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(30).jpg)| [Blog_Pictures](https://github.com/haskellcg/Blog_Pictures)|![E](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/OIK_5/OIK_5%20(10).jpg)|[Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)|
 
+<!--
 |Social|Link|
 |------|----|
 |![Steam](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_ZERO_2/ZUP_ZERO_2%20(295).jpg)|[Steam](https://steamcommunity.com/id/haskellcg)|
 |![Twitter](https://github.com/haskellcg/Blog_Pictures/blob/master/ICONS/ZUP_9/ZUP_9%20(350).jpg)|[Twitter](https://twitter.com/haskellcali)|
+-->
